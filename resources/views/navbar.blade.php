@@ -48,19 +48,20 @@
 			<li><a class="dropdown-item text-light" href="{{url('percentage')}}">Percentage</a></li>
 			<li><a class="dropdown-item text-light" href="{{url('factorial')}}">Factorial</a></li>
 			<li><a class="dropdown-item text-light" href="{{url('factor')}}">Factor</a></li>
-			<li><a class="dropdown-item text-light" href="">Multiply Fractions</a></li>
-			<li><a class="dropdown-item text-light" href="">Simplify Fractions</a></li>
-			<li><a class="dropdown-item text-light" href="">Half Fractions</a></li>
-			<li><a class="dropdown-item text-light" href="">Compare Fractions</a></li>
-			<li><a class="dropdown-item text-light" href="">Fraction as Decimal</a></li>
-			<li><a class="dropdown-item text-light" href="">Fraction as Percentage</a></li>
-			<li><a class="dropdown-item text-light" href="">Decimal as Fraction</a></li>
-			<li><a class="dropdown-item text-light" href="">Improper Fraction to Mixed Numbers</a></li>
-			<li><a class="dropdown-item text-light" href="">Mixed Fraction to Decimal</a></li>
-			<li><a class="dropdown-item text-light" href="">Fraction of a Decimal</a></li>
-			<li><a class="dropdown-item text-light" href="">Fraction divided by whole Number</a></li>
-			<li><a class="dropdown-item text-light" href="">Whole Number divided by Fraction</a></li>
-			<li><a class="dropdown-item text-light" href="">Proportions</a></li>
+			<li><a class="dropdown-item text-light" href="{{url('factor-pair')}}">Factor Pairs</a></li>
+			<li><a class="dropdown-item text-light" href="{{url('prime-factor')}}">Prime Factor</a></li>
+			<li><a class="dropdown-item text-light" href="{{url('square-root')}}">Square Root</a></li>
+			<li><a class="dropdown-item text-light" href="{{url('modulo')}}">Modulo</a></li>
+			<li><a class="dropdown-item text-light" href="{{url('exponentiation')}}">Exponentiation</a></li>
+			<li><a class="dropdown-item text-light" href="{{url('square-feet')}}">Square Feet</a></li>
+			<li><a class="dropdown-item text-light" href="{{url('trigonometry')}}">Trigonometry</a></li>
+			<li><a class="dropdown-item text-light" href="{{url('cube-root')}}">Cube Root</a></li>
+			<li><a class="dropdown-item text-light" href="{{url('divisible-by-anything')}}">Divisible By Anything</a></li>
+			<li><a class="dropdown-item text-light" href="{{url('divisible-by')}}">Divisible By</a></li>
+			<li><a class="dropdown-item text-light" href="{{url('divided-by-what')}}">Divided By What Equals</a></li>
+			<li><a class="dropdown-item text-light" href="{{url('what-divided-by')}}">What Divided By Equals</a></li>
+			<li><a class="dropdown-item text-light" href="{{url('greatest-common-factor')}}">Greatest Common Factor</a></li>
+			<li><a class="dropdown-item text-light" href="{{url('least-common-multiple')}}">Least Common Multiple</a></li>
 		</ul>
 		</li>
 
